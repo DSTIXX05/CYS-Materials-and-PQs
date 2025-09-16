@@ -1,0 +1,73 @@
+100 Level:
+    First Semester
+        BIO 101
+        BIO 103
+        CHE 101
+        CHE 103
+        CSC 101
+        GNS 101
+        GNS 103
+        MEE 101
+        MTS 101
+        PHY 101
+        PHY 107
+    Second Semester
+        CYS 102
+        CYS 104
+        CYS 106
+        CSC 102
+        GNS 102
+        GNS 106
+        MEE 102
+        MTS 102
+        PHY 102
+        PHY 108
+
+200 Level:
+    First Semester
+        CSC 201
+        CSC 203
+        CYS 201
+        CYS 203
+        CYS 205
+        GNS 201
+        MTS 201
+        MTS 203
+        MTS 209
+
+    Second Semester
+        CSC 202
+        CSC 204
+        CSP 210
+        CYS 202
+        CYS 204
+        CYS 206
+        PHY 210
+        STA 122
+        
+
+
+300 Level:
+    First Semester
+        CSC 301
+        CSC 303
+        CSC 307
+        CSC 309
+        CYS 301
+        CYS 303
+        CYS 305
+        EMT 301
+        MTS 303
+
+    Second Semester
+        CSC 208
+        CSC 302
+        CSC 306
+        CYS 302
+        CYS 304
+        ENT 210
+        MTS 202
+        MTS 204
+        STA 306
+
+
