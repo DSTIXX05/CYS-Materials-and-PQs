@@ -1,0 +1,2 @@
+write a program that defines five brands and models the price of a car and the year, too.
+Write a class with methods that can compute the area of a triangle, quadratic equation, conversion of temperature using Python and Java.

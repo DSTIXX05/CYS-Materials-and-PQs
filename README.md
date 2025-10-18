@@ -5,6 +5,7 @@ The goal is to help students prepare for exams with easy access to past question
 
 ---
 
+<!--
 ## 📂 Repo Structure
 
 CYS-Materials-and-PQs/
@@ -12,7 +13,7 @@ CYS-Materials-and-PQs/
 ├── Past Questions/ ← Past exam questions grouped by level/session/semester.
 ├── create_temp_files.py ← Utility script to add placeholder files in every folder.
 ├── courselist.txt ← Full list of CYS courses for reference.
-└── README.md ← This file.
+└── README.md ← This file. -->
 
 ---
 

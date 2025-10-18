@@ -70,4 +70,21 @@
         MTS 204
         STA 306
 
+300 Level:
+    First Semester
+        CYS 401
+        CYS 403
+        CYS 405
+        CYS 407
+        CYS 409
+        CYS 411
+        CYS 413
+        CYS 415
+        CYS 417
 
+300 Level:
+    First Semester
+       CYS 50.
+
+    Second Semester
+        CYS 50_
